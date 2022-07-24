@@ -1,0 +1,233 @@
+body { 
+    margin: 0; 
+    padding:   1; 
+    border:    1; 
+    font-size:    100%; 
+    font:    inherit; 
+    vertical-align:    baseline;
+    line-height:   1;
+    -webkit-font-smoothing:  antialiased; 
+    text-rendering:  optimizeLegibility;
+    font-family: Untitled Sans,Arial,Helvetica,sans-serif; 
+    display: -webkit-box; 
+    display: -ms-flexbox; 
+    display: flex; 
+    -webkit-box-orient: vertical; 
+    -webkit-box-direction: normal; 
+    -ms-flex-direction: column; 
+    flex-direction: column; 
+    width: 100%; 
+    color: #15372c;
+    
+    /* overflow-x:hidden; */
+    } 
+    
+    html { 
+    margin:  0; 
+    padding:  0; 
+    border:  0; 
+    font-size:  10px; 
+    font:  inherit; 
+    vertical-align:  baseline;
+    font-weight: 400;
+    overflow-x:hidden;
+    } 
+    #nav{
+    font-size: 50px;
+    word-spacing: 2;
+    display: flex;
+    height: 80px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+    
+    p{  
+    font-family: Arial, sans-serif;
+    margin-left: 45px;
+    margin-top: 31px;
+    font-size: 16px;
+    color:  rgb(49, 44, 44);;
+    }
+    
+    .btn1{
+    width: 190px;
+    height: 45px;
+    margin-top: 12px;
+    border-radius: 50px;
+    position: relative;
+    left: 80;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+    background-color:   #3574d6FF;
+    border: 0px;
+    }
+    .btn1:hover{
+          background-color:rgba(46, 102, 186, 1);
+      }
+    
+    #btn:hover{
+    border-color: #119b6f;
+    color: #119b6f;
+    }
+    
+    #btn{
+    font-family: Arial, sans-serif;
+    border-radius: 50px;
+    width: 110px;
+    height: 42;
+    margin-top: 15px;
+    margin-left: 300px;
+    position: relative;
+    left: 58;
+    font-size: 15px;
+    color:  rgb(49, 44, 44);;
+    border-width: 1;
+    }
+    
+    #aa{
+      text-decoration: none;
+    }
+    #p1{
+      text-decoration: none;
+    }
+    #logo1{
+      width: 45px;
+      height: 35px;
+      /* border: 1px solid black; */
+      margin-top: 15;
+      margin-left: 100;
+      margin-right: 15;
+    }
+    /* #logo1>img{
+        width: 100%;
+        height: 100%; 
+        margin-left: -30; 
+        margin-top: 9.5;  
+       
+    } */
+    
+    #mainlogo{
+    position: relative;
+    right: 1;
+    top: 10;
+    
+    
+    
+    }
+    #logo2{
+    display: flex;
+    position: relative;
+    left: 68;
+    
+    }
+    #logo2>p{
+    font-size: 15;
+    }
+    
+    #top{
+    
+    /* margin-left: 30px;
+    margin-right: 30px; */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #fff;
+    } 
+    /* #nav{
+    
+    } */
+    #search>img{
+          width: 105%;
+          height: 3vh;
+          color: #15372c;
+    
+    }
+     #search{
+    position: relative;
+    top: 25;
+    left: 105;
+    /* background-color: #fff; */
+    
+    /* width: 35px;
+    height: 40; */
+    } 
+    #ppp:hover{
+      text-decoration: underline;
+    }
+    #a2:hover{
+      text-decoration: underline;
+    }
+    #main{
+        display: flex;
+    }
+    
+    #main1{
+        /* border: 1px solid black; */
+        width: 750px;
+        height: 1350;
+        background-color: rgb(255, 246, 246);
+    }
+    #img>img{
+        width: 100%;
+        height: 90%;
+    }
+    #main2{
+        /* border: 1px solid black; */
+        width: 750px;
+        height: 1350;
+    
+    }
+    #gre{
+        font-size: 25;
+        position: relative;
+        left: 80;
+        top: 250;
+    }
+    #rec{
+        font-size: 25;
+        position: relative;
+        left: 230;
+        top: 195;
+        color: #119b6f;
+    }
+    #let{
+       width: 500;
+       position: relative;
+       left: 130;
+       top: 240;
+    }
+    #let>h1{
+        font-size: 80;
+        font-stretch: 500;
+        font-display:swap;
+        font-family:Untitled Sans;
+        font-style:normal;
+        font-weight:500;
+    }
+    #email{
+        position: relative;
+        left: 130;
+        top: 250;
+        width: 480;
+        height: 60;
+        border-radius: 10px;
+        border: 4px solid black;
+        font-size: 25;
+    }
+    #nex{
+        position: relative;
+        left: 130;
+        top: 280;
+        width: 150;
+        height: 40;
+        border-radius: 50px;
+        font-size: 20;
+        color: #fff;
+        border: 0px;
+        background-color:  #3574d6FF;
+    }
+    #nex:hover{
+        background-color: rgba(46, 102, 186, 1);;
+    }
+    
+    
