@@ -1,8 +1,5 @@
 # freezing-value-6715
-Greenhouse Software is an American technology company  that provides a recruiting software as a service. 
 
-
-# grouchy-dinner-9447
 ## Welcome to Greenhouse
 Greenhouse provides a recruiting software as a service.Greenhouse lets companies create a uniform interview procedure so candidates can be judged based on the same rubric.
 
@@ -53,9 +50,7 @@ Greenhouse provides a recruiting software as a service.Greenhouse lets companies
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+
 </div>
 <br/>
 
@@ -77,9 +72,6 @@ Greenhouse provides a recruiting software as a service.Greenhouse lets companies
 
 
 ## Tech Stack 
-- *React*
-
-
 - *JavaScript*
 - *HTML5*
 - *CSS3*
